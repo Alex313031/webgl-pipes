@@ -1,3 +1,4 @@
+var speed = 1;
 var gridBounds = new THREE.Box3(
   new THREE.Vector3(-10, -10, -10),
   new THREE.Vector3(10, 10, 10)
@@ -440,7 +441,10 @@ function animate() {
     }
   }
 
-  requestAnimationFrame(animate);
+  speed = parseInt(document.querySelector('input[name="speed"]').value);
+        setTimeout( function() {
+          requestAnimationFrame( animate );
+        }, 1000 / speed );
 }
 
 function look() {
