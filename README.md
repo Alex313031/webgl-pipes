@@ -6,11 +6,11 @@ It if a fork of https://github.com/1j01/pipes
 
 Includes both [Utah Teapots](https://en.wikipedia.org/wiki/Utah_teapot) and candy cane easter eggs! (with increased chances 😏)
 
-[Check it out!](https://1j01.github.io/pipes/)
+[Check it out!](https://thorium.rocks/media/3d-pipes)
 
 It's also included in [98.js.org](https://98.js.org/) as a program you can run.
 
-[![](images/screencap.gif)](https://1j01.github.io/pipes/)
+[![](images/screencap.gif)](https://thorium.rocks/media/3d-pipes)
 
 (This screen capture GIF is outdated. It now avoids collisions between pipes and implements the dissolve effect for fading out.)
 
