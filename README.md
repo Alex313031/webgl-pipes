@@ -1,6 +1,8 @@
-# [![](images/meta/icon-32x32.png) Pipes](https://1j01.github.io/pipes/)
+# WebGL 3D Pipes&nbsp;&nbsp;<img src="favicon-32x32.png">
 
-A web-based remake of the Windows 3D Pipes screensaver (3D Pipes.scr or sspipes.scr) using [Three.js](https://threejs.org/)
+A WebGL based remake of the Windows 3D Pipes screensaver (3D Pipes.scr or sspipes.scr) using [Three.js](https://threejs.org/)
+
+It if a fork of https://github.com/1j01/pipes
 
 Includes both [Utah Teapots](https://en.wikipedia.org/wiki/Utah_teapot) and candy cane easter eggs! (with increased chances 😏)
 
@@ -8,7 +10,7 @@ Includes both [Utah Teapots](https://en.wikipedia.org/wiki/Utah_teapot) and cand
 
 It's also included in [98.js.org](https://98.js.org/) as a program you can run.
 
-[![](images/meta/screencap.gif)](https://1j01.github.io/pipes/)
+[![](images/screencap.gif)](https://1j01.github.io/pipes/)
 
 (This screen capture GIF is outdated. It now avoids collisions between pipes and implements the dissolve effect for fading out.)
 
@@ -46,7 +48,7 @@ It's also included in [98.js.org](https://98.js.org/) as a program you can run.
 
 ## See Also
 
-##### Mine / Affiliated
+##### 1j01's work / Affiliated
 
 - [98.js: a recreation of the Windows 98 desktop](https://github.com/1j01/98)
 
